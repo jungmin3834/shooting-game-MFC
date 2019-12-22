@@ -1,0 +1,5 @@
+﻿  LeftView.cpp
+g:\programming\myfile (2)\새 폴더\20180918팀프로젝트\팀 프로젝트\mfcapplication1\leftview.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+g:\programming\myfile (2)\새 폴더\20180918팀프로젝트\팀 프로젝트\mfcapplication1\leftview.cpp(189): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MFCApplication1.vcxproj -> G:\Programming\MYFIle (2)\새 폴더\20180918팀프로젝트\팀 프로젝트\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> G:\Programming\MYFIle (2)\새 폴더\20180918팀프로젝트\팀 프로젝트\Debug\MFCApplication1.pdb (Full PDB)
